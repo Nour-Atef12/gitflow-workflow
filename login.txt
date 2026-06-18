@@ -1,3 +1,4 @@
 - first code 
 - second modify
 - fix bug
+- fix bug for signup
